@@ -40,6 +40,8 @@ To run this project without installer you need Python 3 (3.11.2 is used) and lib
 Libraries used:
 - CustomTkinter
 - Pyperclip
+- String
+- Random
 
 ```
 pip install customtkinter
